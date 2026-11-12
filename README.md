@@ -20,7 +20,7 @@ An online ticketing platform must store users, movies, theaters, show schedules,
 - Version control: Git and GitHub
 ## Database schema
  
-![ER Diagram](erd/er_diagram.png)
+![ER Diagram](ERD/ER_Diagram.png)
  
 The database has 8 tables. Table structures are shown below in the same format as `DESCRIBE <table>`.
  
